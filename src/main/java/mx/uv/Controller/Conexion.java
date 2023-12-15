@@ -5,10 +5,10 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class Conexion {
-    private static String url = "jdbc:mysql://localhost:3306/ejemplo";
+    private static String url = "jdbc:mysql://bahh1qqfgt63a6odemxa-mysql.services.clever-cloud.com:3306/bahh1qqfgt63a6odemxa";
     private static String driverName = "com.mysql.cj.jdbc.Driver"; 
-    private static String username = "root";
-    private static String password = "Perro16tonto";
+    private static String username = "uprscmbmpp14utjr";
+    private static String password = "e82X2glxPCOQxn2o87W6";
     // variable de conexion
     private static Connection connection = null;
 
